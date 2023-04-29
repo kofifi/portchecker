@@ -1,4 +1,3 @@
 # portchecker
 Appliaction for fast portchecking.
-
-#MAIN CONFIG FILE IS IN PORTINFO.JSON
+Main config file is in portinfo.json
